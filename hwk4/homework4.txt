@@ -3,4 +3,19 @@ git config --global user.name "Name"
 git config --global user.email "email@example.com"
 git config --global core.editor "editor"
 git config --list
+
 STEP 2:
+total 13
+drwxr-xr-x 1 Kerem Gülser 197121   0 Jan  9 18:10 ./
+drwxr-xr-x 1 Kerem Gülser 197121   0 Jan  9 18:10 ../
+-rw-r--r-- 1 Kerem Gülser 197121  21 Jan  9 18:10 HEAD
+-rw-r--r-- 1 Kerem Gülser 197121 308 Jan  9 18:10 config
+-rw-r--r-- 1 Kerem Gülser 197121  73 Jan  9 18:10 description
+drwxr-xr-x 1 Kerem Gülser 197121   0 Jan  9 18:10 hooks/
+-rw-r--r-- 1 Kerem Gülser 197121 254 Jan  9 18:10 index
+drwxr-xr-x 1 Kerem Gülser 197121   0 Jan  9 18:10 info/
+drwxr-xr-x 1 Kerem Gülser 197121   0 Jan  9 18:10 logs/
+drwxr-xr-x 1 Kerem Gülser 197121   0 Jan  9 18:10 objects/
+-rw-r--r-- 1 Kerem Gülser 197121 112 Jan  9 18:10 packed-refs
+drwxr-xr-x 1 Kerem Gülser 197121   0 Jan  9 18:10 refs/
+
