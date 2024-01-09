@@ -1,10 +1,11 @@
-STEP 1: 
+STEP A: 
 git config --global user.name "Name"
 git config --global user.email "email@example.com"
 git config --global core.editor "editor"
 git config --list
 
-STEP 2:
+STEP B:
+ls -la .git
 total 13
 drwxr-xr-x 1 Kerem Gülser 197121   0 Jan  9 18:10 ./
 drwxr-xr-x 1 Kerem Gülser 197121   0 Jan  9 18:10 ../
@@ -19,3 +20,15 @@ drwxr-xr-x 1 Kerem Gülser 197121   0 Jan  9 18:10 objects/
 -rw-r--r-- 1 Kerem Gülser 197121 112 Jan  9 18:10 packed-refs
 drwxr-xr-x 1 Kerem Gülser 197121   0 Jan  9 18:10 refs/
 
+STEP C:
+[Department of Software Engineering of Işık University]
+(https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi)
+
+STEP D:
+*.class: Ignores all compiled class files.
+*.log: Ignores all log files.
+*.ctxt: Ignores all BlueJ context files.
+*.mtj.tmp/: Ignores all temporary files created by Mobile Tools for Java (J2ME).
+*.jar, *.war, *.nar, *.ear, *.zip, *.tar.gz, *.rar: Ignores all package files.
+hs_err_pid*: Ignores all virtual machine crash logs.
+replay_pid*: Ignores all files that match this pattern.
