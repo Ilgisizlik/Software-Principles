@@ -43,3 +43,81 @@ homework1.txt
 
 STEP J:
 We changed Main.java file in hwk1 directory to print the odd numbers instead.
+
+STEP M:
+git diff main..feature-1
+diff --git a/Java.gitignore b/Java.gitignore
+new file mode 100644
+index 0000000..524f096
+--- /dev/null
++++ b/Java.gitignore
+@@ -0,0 +1,24 @@
++# Compiled class file
++.class
++
++# Log file
++.log
++
++# BlueJ files
++.ctxt
++
++# Mobile Tools for Java (J2ME)
++.mtj.tmp/
++
++# Package Files #
++.jar
++.war
++.nar
++*.ear
+
+git diff main..feature-2
+diff --git a/Java.gitignore b/Java.gitignore
+new file mode 100644
+index 0000000..524f096
+--- /dev/null
++++ b/Java.gitignore
+@@ -0,0 +1,24 @@
++# Compiled class file
++.class
++
++# Log file
++.log
++
++# BlueJ files
++.ctxt
++
++# Mobile Tools for Java (J2ME)
++.mtj.tmp/
++
++# Package Files #
++.jar
++.war
++.nar
++*.ear
+
+git diff main..feature-3
+diff --git a/Java.gitignore b/Java.gitignore
+new file mode 100644
+index 0000000..524f096
+--- /dev/null
++++ b/Java.gitignore
+@@ -0,0 +1,24 @@
++# Compiled class file
++.class
++
++# Log file
++.log
++
++# BlueJ files
++.ctxt
++
++# Mobile Tools for Java (J2ME)
++.mtj.tmp/
++
++# Package Files #
++.jar
++.war
++.nar
++*.ear
+
+
