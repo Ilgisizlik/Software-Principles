@@ -40,3 +40,6 @@ homework1.txt
 
 for main branch:
 homework1.txt
+
+STEP J:
+We changed Main.java file in hwk1 directory to print the odd numbers instead.
