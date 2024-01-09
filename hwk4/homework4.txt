@@ -32,3 +32,11 @@ STEP D:
 *.jar, *.war, *.nar, *.ear, *.zip, *.tar.gz, *.rar: Ignores all package files.
 hs_err_pid*: Ignores all virtual machine crash logs.
 replay_pid*: Ignores all files that match this pattern.
+
+STEP F:
+for feature-1 branch:
+Main.java 
+homework1.txt
+
+for main branch:
+homework1.txt
